@@ -17,4 +17,6 @@ Should you need to have this unlike every song in a playlist, then just change l
 
     if (likeButton.getAttribute("aria-pressed") === "true") {
 
+# Important info
+Sometimes this wont like some songs, I'm not exactly sure why. I have increased the delay between each run to hopefully fix this, but just give it a once over once its finished to make sure all songs have been liked. 
 
