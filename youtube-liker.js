@@ -19,5 +19,5 @@ Array.from(songs).forEach((song, index) => {
         if (i > songs.length) {
             console.log("------------ COMPLETE ------------");
         }
-    }, index * 400)
+    }, index * 1000)
 })
